@@ -4,11 +4,10 @@
 
 ## Who am I?
 
-Currently, I'm a senior in high school hoping to pursue computer engineering in college. I'm on the programming group on
-my FRC robotics team, where I have helped to program the competition robot in Java as well as an outreach robot in C#.
-I'm also an assistant lead and am in charge of the Python subgroup. My role consists of teaching group members Python
-skills and tools as well as overseeing projects involving Python. Outside of robotics, I'm working on Kivy Cupertino, a
-Python package I've been developing for almost two years now.
+Currently, I'm a freshman in college pursuing computer engineering. I generally create projects that solve problems I am
+facing, such as a practice website for my high school Science Olympiad event in React or a tool to transfer data between
+Windows and iOS in Python. I've also written code for my high school Robotics team in Java and C# and have taught basic
+Python skills to team members.
 
 ## Languages
 
